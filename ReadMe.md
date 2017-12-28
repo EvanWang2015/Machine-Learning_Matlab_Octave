@@ -1,4 +1,4 @@
-#Implementation of Machine Learning Algorithms
+# Implementation of Machine Learning Algorithms
 The repository contains my solutions of assignments of Stanford Machine Learning Class.
 Please DO NOT copy any code in this repo before you finish your own version according to "Stanford Honer Code" below. Question and feedback are welcome. 
 
